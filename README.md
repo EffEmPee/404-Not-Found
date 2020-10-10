@@ -14,17 +14,6 @@
   </h3>
 </div>
 
-<<<<<<< HEAD
-=======
-## Preview
-
--Desktop
-![desktop_version](img/desktop.png)
--Mobile
-
-![desktop_version](img/mobile.png)
-
->>>>>>> b88e04c3595b2eeaa8b040e02ce814a0a3bcc216
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
