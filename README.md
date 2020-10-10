@@ -19,6 +19,7 @@
 -Desktop
 ![desktop_version](img/desktop.png)
 -Mobile
+
 ![desktop_version](img/mobile.png)
 
 ## Features
